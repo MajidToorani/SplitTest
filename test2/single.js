@@ -2,6 +2,11 @@ Survey.StylesManager.applyTheme("modern");
 
 var surveyJSON = {
     "title": "Employment Screening",
+    "completedHtml": "<h3>Thank you for completing survey in single page</h3>",
+    "completedHtmlOnCondition": [
+    {},
+    {}
+    ],
     "pages": [
      {
       "name": "Screening",
