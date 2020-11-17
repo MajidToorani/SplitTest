@@ -119,12 +119,6 @@ var surveyJSON = {
     ]
    }
 
-/*var survey = new Survey.Model(surveyJSON);
-$("#surveyContainer").Survey({
-    model: survey,
-    onComplete: sendDataToServer
-});*/
-
 window.survey = new Survey.Model(surveyJSON);
 
 survey
