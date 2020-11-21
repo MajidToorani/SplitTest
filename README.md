@@ -19,9 +19,10 @@ Link to Test 2 - Single page survey
 https://emerging-interface.herokuapp.com/test2/
 
 <br/>
-
 <h3>Screenshots</h3>
 <img src="Screenshot1.PNG" height="300px"/>
+<br/>
 <img src="Screenshot2.PNG" height="300px"/>
+<br/>
 <img src="Screenshot3.PNG" height="300px"/>
 <br/>
